@@ -1,0 +1,22 @@
+{
+  "knowledge": {
+    "user_name": {
+      "value": "Xaden",
+      "priority": 3
+    },
+    "favorite color": {
+      "value": "black",
+      "priority": 2
+    },
+    "purple": {
+      "value": "dark",
+      "priority": 1
+    },
+    "black": {
+      "value": "dark",
+      "priority": 1
+    }
+  },
+  "user_name": "Xaden",
+  "favorite color": "black"
+}
